@@ -3,16 +3,22 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/plankton_gyal.JPG
 ---
 
 :::{#me}
 
 ## Goals
 
+My goal is to take over the world
+
 ## Education
 
+School of hard knocks
+
 ## Experience
+
+The streets
 
 :::
 
